@@ -1,7 +1,7 @@
 # Churn and Cluster Analysis for a Telecom Company
 This is a final analysis project during Le Wagon bootcamp.
 
-## Project Status: [Completed]
+## Project Status: [Completed]🫶
 
 ## Project Intro/Objective
 - **The client**: CMO of the telecom company
